@@ -1,5 +1,13 @@
 # Configs for vpsAdmin-api used by vpsFree.cz
 
+## Deprecation notice
+
+This repository has been merged into vpsfree-cz-configuration:
+
+https://github.com/vpsfreecz/vpsfree-cz-configuration
+
+Further development will take place there.
+
 ## `dataset_plans.rb`
 
 A set of dataset plans available for user or admins. Plans are used to schedule
